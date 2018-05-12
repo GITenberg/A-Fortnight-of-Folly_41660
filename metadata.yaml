@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32280
 description: A fortnight of folly -- The tale of a sculptor / by Hugh Conway -- Carriston's
   gift / [by Hugh Conway].
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41660#A-Fortnight-of-Folly
 gutenberg_issued: '2012-12-19'
 gutenberg_type: Text
 identifiers:
