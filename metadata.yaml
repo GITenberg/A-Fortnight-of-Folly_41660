@@ -1,0 +1,41 @@
+_repo: A-Fortnight-of-Folly_41660
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41660-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Thompson, Maurice
+    aliases:
+    - Thompson, J. Maurice (James Maurice)
+    - Thompson, James Maurice
+    birthdate: 1844
+    deathdate: 1901
+    gutenberg_agent_id: '1388'
+    url: http://www.gutenberg.org/2009/agents/1388
+    wikipedia: http://en.wikipedia.org/wiki/Maurice_Thompson
+  - agent_name: Conway, Hugh
+    aliases:
+    - Fargus, Frederick John
+    - Fargus, F. J. (Frederick John)
+    birthdate: 1847
+    deathdate: 1885
+    gutenberg_agent_id: '32280'
+    url: http://www.gutenberg.org/2009/agents/32280
+description: A fortnight of folly -- The tale of a sculptor / by Hugh Conway -- Carriston's
+  gift / [by Hugh Conway].
+gutenberg_issued: '2012-12-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41660'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PS'
+tableOfContents: A fortnight of folly -- The tale of a sculptor, by Hugh Conway --
+  Carriston's gift.
+title: A Fortnight of Folly
+url: http://www.gutenberg.org/ebooks/41660
