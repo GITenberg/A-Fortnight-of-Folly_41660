@@ -37,6 +37,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Fiction'
 - !lcc 'PS'
+- GITenberg
 tableOfContents: A fortnight of folly -- The tale of a sculptor, by Hugh Conway --
   Carriston's gift.
 title: A Fortnight of Folly
